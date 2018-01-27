@@ -1,0 +1,15 @@
+body {
+	padding: 10px;
+}
+
+.special 
+	{color: red;}
+
+.second {
+	border: solid 5px black;
+	padding: 10px;
+}
+
+.third {
+	border: solid 5px green;
+}
